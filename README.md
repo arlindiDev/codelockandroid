@@ -1,10 +1,10 @@
 # codelockandroid
 
-Code Lock Android is and iOS home screen lock pattern.
+Code Lock Android looks like an iOS home screen lock pattern.
 
 ![](https://github.com/arlindiDev/codelockandroid/blob/master/codelock.gif)
 
-It basicly is used as a EditText except that it looks like a home screen lock.
+It basicly is used as a EditText except that it looks like a iOS home screen lock.
 
 How to use PinCodeView?
 --------
@@ -15,8 +15,7 @@ XML
     <codelock.PinCodeView
         android:id="@+id/pincodeview"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_centerInParent="true" />
+        android:layout_height="100dp" />
 ```
 
 JAVA
