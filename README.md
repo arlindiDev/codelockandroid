@@ -2,6 +2,8 @@
 
 Code Lock Android is and iOS home screen lock pattern.
 
+![](https://github.com/arlindiDev/codelockandroid/blob/master/codelock.gif)
+
 It basicly is used as a EditText except that it looks like a home screen lock.
 
 How to use PinCodeView?
