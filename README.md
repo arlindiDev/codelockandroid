@@ -1,4 +1,4 @@
-# codelockandroid
+# Code Lock Android
 
 Code Lock Android looks like an iOS home screen lock pattern.
 
